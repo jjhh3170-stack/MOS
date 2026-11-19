@@ -1,0 +1,11 @@
+# 재생성 가능한 산출물 (study/setup_and_convert.sh 로 복원)
+.pylibs/
+ch10p1/
+ch10p2/
+ch11khu/
+tb10/
+tb11/
+preview/
+
+# PDF에서 추출한 임시 텍스트
+txt_*.txt
